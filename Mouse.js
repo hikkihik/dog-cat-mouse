@@ -3,4 +3,4 @@ function Mouse(name, color) {
 	this.color = color;
 }
 
-var kitty = new Mouse('Kitty', 'white');
+module.exports = Mouse;
