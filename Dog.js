@@ -1,5 +1,4 @@
-function Dog(name) {
-	this.name = name;
+function Dog() {
 	this.stomach = [];
 }
 
